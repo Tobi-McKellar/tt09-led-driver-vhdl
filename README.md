@@ -2,6 +2,9 @@
 
 # Tiny Tapeout VHDL Project Template (experimental)
 
+> [!WARNING]
+> VHDL support for Tiny Tapeout is experimental. The template may get changes during the shuttle and VHDL support may be dropped for future shuttles if we see low usage.
+
 - [Read the documentation for project](docs/info.md)
 
 ## What is Tiny Tapeout?
